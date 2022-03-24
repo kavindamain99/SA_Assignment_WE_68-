@@ -1,0 +1,9 @@
+D07,D240014,Amoxil - 250mg,Panadene - 50mg
+D07,D240014,Panadol 200mg,Cetrazine 50mg
+D07,D240014,Lozarton 500mg
+D07,D240014,Alerid 40mg
+D01,D240003,Betolac 500ng
+D07,D240014,Benzo 50mg
+D07,D240014,LSD 50mg
+D06,D240001,Panadol 20mg, vitamin c, zitricenr 50mg
+

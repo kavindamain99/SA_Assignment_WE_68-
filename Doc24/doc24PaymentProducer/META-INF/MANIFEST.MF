@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Doc24PaymentProducer
+Bundle-SymbolicName: doc24PaymentProducer
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: doc24paymentproducer.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-15
+Automatic-Module-Name: doc24PaymentProducer
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
+Export-Package: doc24paymentproducer

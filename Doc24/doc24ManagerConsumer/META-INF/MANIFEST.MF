@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Doc24ManagerConsumer
+Bundle-SymbolicName: doc24ManagerConsumer
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: doc24managerconsumer.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-15
+Automatic-Module-Name: doc24ManagerConsumer
+Import-Package: doc24managerproducer,
+ doc24managersearchproducer,
+ doc24menuproducer,
+ org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy

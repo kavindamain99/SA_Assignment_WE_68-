@@ -1,0 +1,13 @@
+D06,D240002,Nimal Wedagedara,Alison,8:30 - 9:00
+D01,D240003,Ashoka kamaladasa,Swift,8:00 - 8:30
+D01,D240004,Ashoka kamaladasa,M,8:30 - 9:00
+D02,D240005,Dulip Samanpriya,Macey,8:00 - 8:30
+D03,D240006,malka pilapitiya,Hailee,8:00 - 8:30
+D01,D240007,Ashoka Kamaladasa,Steinfeld,9:00 - 9:30
+D04,D240008,Samantha Fonseka,Kiera,8:00 - 8:30
+D03,D240009,Malka Pilapitiya,Knightley,8:30 - 9:00
+D09,D240010,Kavya Wanigasekara,Ella,8:00 - 8:30
+D01,D240011,Ashoka Kamaladasa,Dexter,9:30 - 10:00
+D01,D240012,Ashoka Kamaladasa,Sam,10:00 - 10:30
+D01,D240013,Ashoka Kamaladasa,Rick,10:30 - 11:00
+D06,D240015,Nimal Wedagedara,John Doe,9:00 - 9:30
