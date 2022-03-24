@@ -1,0 +1,9 @@
+D01,Ashoka kamaladasa,Anesthesiology,Ragama
+D02,Dulip Samanpriya,Dermatology,Colombo
+D03,malka pilapitiya,radiology,kandy
+D05,Shamali Darmapriya,Psychiatry,Colombo
+D06,Nimal Wedagedara,Cardiology,Colombo
+D07,Pubudu Rathnayake,Dermatology,Kandy
+D08,Hiruni Dissanayake,Radiology,Maharagama
+D09,Kavya Wanigasekara,Neurology,Kandy
+D10,Gamini Hemachandra,Psychiatry,Kandy
