@@ -20,8 +20,8 @@ Eclipse > File > import
 4.	Update Data file locations according to your Memory Location
 5.	Run Producer and Consumers Seperately
 
-<h2>Contributors<h2>
-  @kavindamain99
-  @MulithaBM
-  @Madhawa-Tharindu
-  @ishalini
+<h2>Contributors</h2>
+  @kavindamain99<br>
+  @MulithaBM<br>
+  @Madhawa-Tharindu<br>
+  @ishalini<br>
